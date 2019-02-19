@@ -17,7 +17,7 @@ a social event finding app
 4.  Save events to your favorites to keep them on your phone forever!
 5.  Coredata saves searches (until a new one is initiated) limiting reliance on redundant calls to backend.
 
-## requirements
+## technical features
 1.  Many views (7+)
 2.  Core Data - Used to save searches, favorites, and user search settings. The app will load previous searches from coredata upon opening if available. Additionally favorites are saved even if you initiate a new search.
 3.  Core animations - startup, "lets go" button, and favorite popup animation
@@ -37,16 +37,6 @@ a social event finding app
 4.  Reverse geocaching for location lookup
 
 ---
-## made by
-Nancy Tran - Original idea, designed the app, created most of the initial mockup in xCode, Maps integration with displaying event pins/user location, and Constraints. Responsible for the aesthetic look of the app.
-
-Justin Wu - All core data integration, view controllers, favorites view, and segues. 
-
-Larkin Williams-Capone - View controllers, cell classes, data structure, app architecture, API protocol integration, Flask API, some map annotation/chnanges, remote image fetching, determined requirements for final layout in the storyboard. Picked up lose ends.
-
-Alex Palacios - Animations, created an original one himself. App logo/startup logo, text logo ideation (unused). Assistance with initial delieverable.
-
-Nathan Dayvault - Favorites icon transition, research.
 
 ## more photos
 
